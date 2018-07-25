@@ -1,0 +1,16 @@
+.home-page-picture{ 
+
+	height: 150px !important;
+}
+
+/* Home page pagination */
+
+.pager .active a {
+	background-color: grey;
+	color: #fff;
+}
+
+.pager .active a:hover {
+	background-color: grey;
+	color: #fff;
+}
